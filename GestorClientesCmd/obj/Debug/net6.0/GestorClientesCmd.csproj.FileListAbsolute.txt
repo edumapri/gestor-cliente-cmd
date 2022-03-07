@@ -1,0 +1,15 @@
+C:\Users\admin\Dropbox\GIT\Gestor Clientes cmd\GestorClientesCmd\GestorClientesCmd\bin\Debug\net6.0\GestorClientesCmd.exe
+C:\Users\admin\Dropbox\GIT\Gestor Clientes cmd\GestorClientesCmd\GestorClientesCmd\bin\Debug\net6.0\GestorClientesCmd.deps.json
+C:\Users\admin\Dropbox\GIT\Gestor Clientes cmd\GestorClientesCmd\GestorClientesCmd\bin\Debug\net6.0\GestorClientesCmd.runtimeconfig.json
+C:\Users\admin\Dropbox\GIT\Gestor Clientes cmd\GestorClientesCmd\GestorClientesCmd\bin\Debug\net6.0\GestorClientesCmd.dll
+C:\Users\admin\Dropbox\GIT\Gestor Clientes cmd\GestorClientesCmd\GestorClientesCmd\bin\Debug\net6.0\GestorClientesCmd.pdb
+C:\Users\admin\Dropbox\GIT\Gestor Clientes cmd\GestorClientesCmd\GestorClientesCmd\obj\Debug\net6.0\GestorClientesCmd.csproj.AssemblyReference.cache
+C:\Users\admin\Dropbox\GIT\Gestor Clientes cmd\GestorClientesCmd\GestorClientesCmd\obj\Debug\net6.0\GestorClientesCmd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Dropbox\GIT\Gestor Clientes cmd\GestorClientesCmd\GestorClientesCmd\obj\Debug\net6.0\GestorClientesCmd.AssemblyInfoInputs.cache
+C:\Users\admin\Dropbox\GIT\Gestor Clientes cmd\GestorClientesCmd\GestorClientesCmd\obj\Debug\net6.0\GestorClientesCmd.AssemblyInfo.cs
+C:\Users\admin\Dropbox\GIT\Gestor Clientes cmd\GestorClientesCmd\GestorClientesCmd\obj\Debug\net6.0\GestorClientesCmd.csproj.CoreCompileInputs.cache
+C:\Users\admin\Dropbox\GIT\Gestor Clientes cmd\GestorClientesCmd\GestorClientesCmd\obj\Debug\net6.0\GestorClientesCmd.dll
+C:\Users\admin\Dropbox\GIT\Gestor Clientes cmd\GestorClientesCmd\GestorClientesCmd\obj\Debug\net6.0\refint\GestorClientesCmd.dll
+C:\Users\admin\Dropbox\GIT\Gestor Clientes cmd\GestorClientesCmd\GestorClientesCmd\obj\Debug\net6.0\GestorClientesCmd.pdb
+C:\Users\admin\Dropbox\GIT\Gestor Clientes cmd\GestorClientesCmd\GestorClientesCmd\obj\Debug\net6.0\GestorClientesCmd.genruntimeconfig.cache
+C:\Users\admin\Dropbox\GIT\Gestor Clientes cmd\GestorClientesCmd\GestorClientesCmd\obj\Debug\net6.0\ref\GestorClientesCmd.dll
